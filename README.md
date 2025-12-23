@@ -73,3 +73,11 @@ Provide a smooth trading workflow
 Deliver accurate and fast market data
 
 Ensure easy navigation and clean dashboard design
+
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+![Dashboard Page](screenshots/dashboard.png)
+
