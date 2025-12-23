@@ -26,7 +26,7 @@ Fast and responsive UI
 
 Tech Stack
 
-Frontend: HTML, CSS, JavaScript / React (optional)
+Frontend: HTML, CSS, JavaScript / React 
 
 Backend: Node.js / Express
 
