@@ -79,5 +79,7 @@ Ensure easy navigation and clean dashboard design
 
 ### 🏠 Home Page
 ![Home Page](screenshots/home.png)
+
+
 ![Dashboard Page](screenshots/dashboard.png)
 
